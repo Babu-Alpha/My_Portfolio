@@ -1,0 +1,17 @@
+nav ul li {
+  display: inline;
+  background-color: aqua;
+  font-size: 40px;
+  font-weight: 400;
+  white-space: 100px;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 600;
+  color: blue-;
+  background-color: antiquewhite;
+}
+p {
+  font: roboto;
+  color: black;
+}
